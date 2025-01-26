@@ -1,7 +1,4 @@
 # Simple-QA-RAG
-I'll create comprehensive documentation for this RAG (Retrieval-Augmented Generation) Financial Document Q&A Application.
-
-# RAG Financial Document Q&A Application
 
 ## Overview
 This Streamlit application enables users to upload PDF documents and perform question-answering using advanced retrieval and language model techniques.
