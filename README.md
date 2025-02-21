@@ -1,4 +1,4 @@
-# Simple-QA-RAG
+# RAG
 
 ## Overview
 This Streamlit application enables users to upload PDF documents and perform question-answering using advanced retrieval and language model techniques.
